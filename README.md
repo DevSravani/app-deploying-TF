@@ -1,2 +1,1 @@
-# app-deploying-TF
-App deploying by using TF files this is my first project in GCP devops
+Only thing to do is to rememeber to download your key.json file from both the projects after the service accounts are created.
